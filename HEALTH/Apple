@@ -1,0 +1,4 @@
+numStudent = 25
+numOranges = 5
+nOfWomen = 30
+type(nOfWomen)
