@@ -1,3 +1,3 @@
 # VSCode-Demo
 
-This is going to be my second project.
+This is going to be another project.
